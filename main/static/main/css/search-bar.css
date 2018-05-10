@@ -1,0 +1,26 @@
+
+
+
+.sbu-image {
+	text-align: center;
+	border-right: 1px solid black;
+	padding-right: 0;
+}
+.container-fluid {
+padding-top: 5px
+}      
+  .topnav input[type=text] {
+    font-size: 17px;
+  }
+
+.topnav .search-container button {
+    padding: 6px 10px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
+
+.topnav .search-container button:hover {
+    background: #ccc;
+  }
